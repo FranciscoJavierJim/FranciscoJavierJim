@@ -10,16 +10,6 @@ Double Bachelor´s Degree in Industrial Management Engineering & Mechanical Engi
 
 --- 
 
-🚀 Highlights 
-
-- 🛠️ **Engineering Mindset:** Applying process optimization and analytical thinking from my double engineering background to Software Quality Assurance.
-
-- 🔍 **Quality Driven:** Focused on finding efficient solutions and ensuring software excellence through automated and manual testing.
-
-- 🌱 **Continuous Learning:** Currently deepening my expertise in advanced automation frameworks and CI/CD pipelines.
-
----
-
 🛠️ Tech Skills
 
 **QA Automation & Testing Tools** 
@@ -30,6 +20,16 @@ Double Bachelor´s Degree in Industrial Management Engineering & Mechanical Engi
 **DevOps & Version Control** <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" /> </p> 
 
 **Management & Collaboration** <p align="left"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /> <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </p> 
+
+---
+
+🚀 Highlights 
+
+- 🛠️ **Engineering Mindset:** Applying process optimization and analytical thinking from my double engineering background to Software Quality Assurance.
+
+- 🔍 **Quality Driven:** Focused on finding efficient solutions and ensuring software excellence through automated and manual testing.
+
+- 🌱 **Continuous Learning:** Currently deepening my expertise in advanced automation frameworks and CI/CD pipelines.
 
 ---
 
