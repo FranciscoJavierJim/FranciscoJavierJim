@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=000000&background=FFFFFF00&center=true&vCenter=true&width=700&lines=HI!+WELCOME+TO+MY+PROFILE!" alt="Typing SVG" /> </h1> 
-
-
 👋 Hi there, I'm Francisco Javier Jiménez! 
 
 🎯 QA Automation Engineer Junior | Manual & Automation Enthusiast 
